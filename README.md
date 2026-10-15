@@ -1,17 +1,6 @@
 ### Hi there, I'm Martin! 👋
 
-I'm trying to implement **computational modelling** and optimization with **materials science**. 
-With my chemical background, I'm curious about the world of **plastics and composites**. 
-During my sustainability minor, I've gained an interest in **renewable energy and technology**. 
-I'm ready to take on the challenges that come with the clean energy transition and to give value to waste-stream processes. 
-Besides, I play the piano in a cover band! 
-
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+I'm interested in developing **research software** for a better world, combining **computational modeling** and **optimization** with **materials science**. With my chemical background, I'm curious about the world of **plastics and composites**, and I'm ready to take on the challenges that come with the clean energy transition. I am a creative thinker and have a talent for making complex topics understandable. Besides, I play piano in a cover band! 
 
 ### Connect with me:
 
